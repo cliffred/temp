@@ -1,1 +1,1 @@
-rootProject.name = "_sandbox"
+rootProject.name = "sandbox"
