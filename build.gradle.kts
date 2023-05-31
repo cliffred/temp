@@ -3,6 +3,12 @@ plugins {
     id("pl.allegro.tech.build.axion-release") version "1.15.3"
 }
 
+buildscript {
+    dependencies{
+        classpath("net.java.dev.jna:jna:5.7.0")
+    }
+}
+
 repositories {
     mavenCentral()
 }
