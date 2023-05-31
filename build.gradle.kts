@@ -1,5 +1,6 @@
 plugins {
     id("org.jetbrains.kotlin.jvm") version "1.8.20"
+    id("pl.allegro.tech.build.axion-release") version "1.15.3"
 }
 
 repositories {
