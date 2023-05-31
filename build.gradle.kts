@@ -5,7 +5,7 @@ plugins {
 
 buildscript {
     dependencies{
-        classpath("net.java.dev.jna:jna:5.7.0")
+        classpath("net.java.dev.jna:jna:5.13.0")
     }
 }
 
